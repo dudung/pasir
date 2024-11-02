@@ -12,6 +12,7 @@ Create pasir as continuation of butiran, which has undetermined pause.
 
 It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
 
++ `03-nov-2024` Create folder `butiran` in `src` for integrating [butiran] to pasir.
 + `02-nov-2024` Create pasir.
   - Combine `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
   - Fix default `hugo.yml` for GitHub Action.
