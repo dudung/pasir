@@ -1,3 +1,10 @@
+# Shortcuts
+cmd.lnk
+
+# Folders
+public
+slide
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
