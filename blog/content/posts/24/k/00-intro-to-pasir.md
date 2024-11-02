@@ -12,7 +12,8 @@ Create pasir as continuation of butiran, which has undetermined pause.
 
 It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
 
-`02-nov-2024` Create pasir combining `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
++ `02-nov-2024` Create pasir.
+  - Combine `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
   - Fix default `hugo.yml` for GitHub Action.
-  - Add `-s blog` after `run: | hugo`.
-  - Modify `./public` to `./blog/public` in `path` of `Upload artifact`.
+    + Add `-s blog` after `run: | hugo`.
+    + Modify `./public` to `./blog/public` in `path` of `Upload artifact`.
