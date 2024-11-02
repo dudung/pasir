@@ -16,3 +16,4 @@ It is now has Python and JavaScript parts, where the first is for calculation an
   - GitHub Action in `hugo.yml' still does not work.
   - Add `-s blog -d public` to `hugo` in `hugo.yml`.
   - Remove `-d public` since it reports `tar: public: Cannot open: No such file or directory`. Assuming the directory does not exists.
+  - Try use `./blog/public` in path of Upload artifcat.
