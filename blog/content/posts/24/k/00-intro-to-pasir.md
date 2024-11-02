@@ -12,7 +12,9 @@ Create pasir as continuation of butiran, which has undetermined pause.
 
 It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
 
-+ `03-nov-2024` Create folder `butiran` in `src` for integrating [butiran] to pasir.
++ `03-nov-2024` Add [butiran](https://pypi.org/project/butiran/).
+  - Create folder `butiran` in `src` for integration to pasir.
+  - Unable to fix error [`11646202081`](https://github.com/dudung/pasir/actions/runs/11646202081).
 + `02-nov-2024` Create pasir.
   - Combine `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
   - Fix default `hugo.yml` for GitHub Action.
