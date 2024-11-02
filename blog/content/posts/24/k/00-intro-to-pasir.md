@@ -13,7 +13,6 @@ Create pasir as continuation of butiran, which has undetermined pause.
 It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
 
 `02-nov-2024` Create pasir combining `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
-  - GitHub Action in `hugo.yml' still does not work.
-  - Add `-s blog -d public` to `hugo` in `hugo.yml`.
-  - Remove `-d public` since it reports `tar: public: Cannot open: No such file or directory`. Assuming the directory does not exists.
-  - Try use `./blog/public` in path of Upload artifcat.
+  - GitHub Action in `hugo.yml` still does not work.
+  - Add `-s blog -d public` after `run: | hugo`.
+  - Insert `blog` to `./public` in `path` of `Upload artifact`.
