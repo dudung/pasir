@@ -14,3 +14,4 @@ It is now has Python and JavaScript parts, where the first is for calculation an
 
 `02-nov-2024` Create pasir combining `src` (Python + JavaScript) and `blog` (Hugo) in a repo.
   - GitHub Action in `hugo.yml' still does not work.
+  - Add `-s blog -d public` to `hugo` in `hugo.yml`.
