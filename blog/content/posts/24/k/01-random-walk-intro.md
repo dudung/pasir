@@ -10,4 +10,12 @@ A short intro about random walk with some examples in Python.
 
 <!--more-->
 
-I
++ Random walk intro: Some examples in Python
+  - url https://osf.io/2yqsu
+  - version 20241107_v3
++ Outline
+  - Intro 3
+  - Some systems 10
+  - ABM examples 16
+  - Python codes 1st part 29
+  - Closing &ndash;3
