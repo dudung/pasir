@@ -24,6 +24,6 @@ Progres 2: Large-Atomic/Molecular Massively Parallel Simulator-(LAMMPS).
 + `20-sep-2024` [`tg8ab`](https://osf.io/tg8ab) \
 Presentation: Polyamida-6 / Carbon Fiber Composite Polymer System Design for Molecular Dynamics Modeling using LAMPPS, zoom with Waseda University, format for weekly progress report.
 + `06-sep-2024` [`scdzu`](https://osf.io/scdzu) \
-Informal supervision and initial discussion about the topic.
+Informal supervision and initial discussion about the topic, with new supervision team.
 + `xx-jun-2024` [`q3g6h`](https://osf.io/q3g6h) \
-Proposal: Modelling and Simulation of Carbon Fiber Reinforced Polyamide-6 Composite using Molecular Dynamics for Ultraviolet Irradiation and Water Diffusion.
+Proposal: Modelling and Simulation of Carbon Fiber Reinforced Polyamide-6 Composite using Molecular Dynamics for Ultraviolet Irradiation and Water Diffusion, with initial supervision team.
