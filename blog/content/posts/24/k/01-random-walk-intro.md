@@ -10,6 +10,8 @@ A short intro about random walk with some examples in Python.
 
 <!--more-->
 
+Info:
+
 + Random walk intro: Some examples in Python
   - url https://osf.io/2yqsu
   - version 20241107_v3
