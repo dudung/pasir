@@ -10,7 +10,11 @@ Create pasir as continuation of butiran, which has undetermined pause.
 
 <!--more-->
 
-It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
+Updates:
+
++ It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
+
+Progress:
 
 + `03-nov-2024` Add [butiran](https://pypi.org/project/butiran/).
   - Create folder `butiran` in `src` for integration to pasir.
