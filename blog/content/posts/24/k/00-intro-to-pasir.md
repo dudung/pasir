@@ -22,6 +22,7 @@ Progress:
   - Still unable to fix error [`11753616655`](https://github.com/dudung/pasir/actions/runs/11753616655/job/32746705870) while deploying to [PyPI](https://pypi.org/).
   - Similar GitHub Action works on [`11753526587`](https://github.com/dudung/remah/actions/runs/11753526587/job/32746507721).
   - Try a solution but still not works [`11753616655`](https://github.com/dudung/pasir/actions/runs/11753616655/job/32750716145).
+  - It works on new repo with [`11755638995`](https://github.com/dudung/testpasir/actions/runs/11755638995/job/32750903513)
 + `03-nov-2024` Add [butiran](https://pypi.org/project/butiran/).
   - Create folder `butiran` in `src` for integration to pasir.
   - Unable to fix error [`11646202081`](https://github.com/dudung/pasir/actions/runs/11646202081) while uploading package to [PyPI](https://pypi.org/).
