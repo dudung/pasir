@@ -19,6 +19,7 @@ Progress:
 + `09-nov-2024` Use a word for section instead of `##` prefix.
   - Current section words are Update, Progress, Info, Activities.
   - It is to accompany Tags, which is genereated by Hugo template.
+  - Still unable to fix error [`11753616655`](https://github.com/dudung/pasir/actions/runs/11753616655/job/32746705870) while deploying [PyPI](https://pypi.org/).
 + `03-nov-2024` Add [butiran](https://pypi.org/project/butiran/).
   - Create folder `butiran` in `src` for integration to pasir.
   - Unable to fix error [`11646202081`](https://github.com/dudung/pasir/actions/runs/11646202081) while uploading package to [PyPI](https://pypi.org/).
