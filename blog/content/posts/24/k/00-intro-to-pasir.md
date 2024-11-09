@@ -19,6 +19,7 @@ Progress:
 + `10-nov-2024` Create fresh repository.
   - Clone pasir to testpasir.
   - Rename pasir to old-pasir and testpasir to pasir.
+  - Test blog built with Hugo.
 + `09-nov-2024` Use a word for section instead of `##` prefix.
   - Current section words are Update, Progress, Info, Activities.
   - It is to accompany Tags, which is genereated by Hugo template.
