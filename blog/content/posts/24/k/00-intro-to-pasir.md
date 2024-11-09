@@ -19,7 +19,7 @@ Progress:
 + `10-nov-2024` Create fresh repository.
   - Clone pasir to testpasir.
   - Rename pasir to old-pasir and testpasir to pasir.
-  - Test blog built with Hugo.
+  - Test blog built with Hugo, still error [`11760110667`](https://github.com/dudung/pasir/actions/runs/11760110667/job/32760300240).
 + `09-nov-2024` Use a word for section instead of `##` prefix.
   - Current section words are Update, Progress, Info, Activities.
   - It is to accompany Tags, which is genereated by Hugo template.
