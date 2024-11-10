@@ -20,7 +20,11 @@ Progress:
   - Clone `pasir` to `testpasir`.
   - Rename `pasir` to `old-pasir` and `testpasir` to `pasir`.
   - Test blog built with Hugo, still error [`11760110667`](https://github.com/dudung/pasir/actions/runs/11760110667/job/32760300240).
-  - Finally `hugo.yml` work [`11760166744`](https://github.com/dudung/pasir/actions/runs/11760166744/job/32760418928).
+  - Finally [`hugo.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/hugo.yml) work [`11760166744`](https://github.com/dudung/pasir/actions/runs/11760166744/job/32760418928).
+  - Check existance of `secrets.A_TOKEN` using [`check-secret.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/check-secret.yml).
+  - Twine works for [pasir 0.0.1](https://pypi.org/project/pasir/0.0.1/) but not yet GitHub Action [`python-publish.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/python-publish.yml).
+  - Finally `python-publish.yml` works [`11761303889`](https://github.com/dudung/pasir/actions/runs/11761303889/job/32762892975), which requires defining of [Trusted Publishers](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/), but with unrecommended way.
+  - 
 + `09-nov-2024` Use a word for section instead of `##` prefix.
   - Current section words are Update, Progress, Info, Activities.
   - It is to accompany Tags, which is genereated by Hugo template.
