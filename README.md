@@ -48,7 +48,7 @@ Output
 ### gravitational2
 Syntax
 
-`Gravitational([constant])`
+`Gravitational2([constant])`
 
 + `constant`: Gravitational constant.
 
