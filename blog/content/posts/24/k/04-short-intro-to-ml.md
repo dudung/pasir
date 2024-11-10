@@ -13,10 +13,11 @@ A very short intro to Machine Learning mostly with illustrations.
 Info:
 
 + Short intro to Machine Learning: Some references and other things
-  - url 
+  - url https://osf.io/svxy4
   - version 20241111_v0
 + Outline
-  - Intro 3
+  - Refs 3
+  - .. &ndash;3
 
 Others:
 
@@ -31,7 +32,7 @@ Refs:
 [^fleuret_1_2024]: [`zqe52`](https://osf.io/zqe52) François Fleuret, "The Little Book of Deep Learning", Université de Genève, version 1.2, 19 May 2024, url https://isbnsearch.org/isbn/9789732346495 [20241110].
 [^gajewski_2020]: [`eapb3`](https://osf.io/eapb3/) Zbigniew Gajewski, "How artificial intelligence will change our lives in 5 years", THINKbook, Centre for International Relations & Konrad Adenauer Stiftung, 2020, url https://www.kas.de/documents/279510/11259918/How+AI+will+change+our+lives+in+5+years%2C+Raport+by+Zbigniew+Gajewski.pdf/99d89c47-0233-67a7-c706-55e5275da4b3?version=1.1&t=1611849488440 [20241110].
 [^goodfellow_1_2016]: [`xj285`](https://osf.io/xj285) Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning", MIT Press, 1st edition, 2016, url https://www.deeplearningbook.org/ [20241110].
-[^hamilton_2023]: [`ygt8r`](https://osf.io/ygt8r) Arran Hamilton, Dylan Wiliam, John Hattie, "The Future of AI in Education: 13 things we can do to minimize the damage", OSF, Aug 2023, url `/10.3`http://dx.doi.org/10.35542/osf.io/372vr.
+[^hamilton_2023]: [`ygt8r`](https://osf.io/ygt8r) Arran Hamilton, Dylan Wiliam, John Hattie, "The Future of AI in Education: 13 things we can do to minimize the damage", OSF, Aug 2023, url https://dx.doi.org/10.35542/osf.io/372vr.
 [^harrington_1_2012]: [`v92cu`](https://osf.io/v92cu) Peter Harrington, "Machine Learning in Action", Manning Publications, 1st edition, 2012, url https://isbnsearch.org/isbn/9781617290183 [20241110].
 [^janiesch_2021]: [`s8auq`](https://osf.io/s8auq) Christian Janiesch, Patrick Zschech, Kai Heinrich, "Machine learning and deep learning", Electronic Markets, vol 31, pp 685–695, Sep 2021, url https://doi.org/10.1007/s12525-021-00475-2.
 [^klein_1_2021]: [`723eh`](https://osf.io/723eh) Bernd Klein, "Machine Learning with Python Tutorial", bodenseo, 2021, url https://python-course.eu/books/bernd_klein_python_and_machine_learning_a4.pdf [20241110].
