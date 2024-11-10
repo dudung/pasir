@@ -1,6 +1,6 @@
 [tool.poetry]  # This section is for Poetry (optional, if using Poetry)
 name = "pasir"
-version = "0.0.2"
+version = "0.0.3"
 description = "granular-based simulation and related systems"
 authors = ["Sparisoma Viridi <dudung@gmail.com>"]
 license = "MIT"
