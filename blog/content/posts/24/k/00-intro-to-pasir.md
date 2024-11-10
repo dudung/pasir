@@ -16,15 +16,17 @@ Updates:
 
 Progress:
 
-+ `10-nov-2024` Create fresh repository.
++ `10-nov-2024` Fix `hugo.yml` and `python-publish.yml` GitHub Actions.
+  - Create fresh repository.
   - Clone `pasir` to `testpasir`.
   - Rename `pasir` to `old-pasir` and `testpasir` to `pasir`.
   - Test blog built with Hugo, still error [`11760110667`](https://github.com/dudung/pasir/actions/runs/11760110667/job/32760300240).
   - Finally [`hugo.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/hugo.yml) work [`11760166744`](https://github.com/dudung/pasir/actions/runs/11760166744/job/32760418928).
   - Check existance of `secrets.A_TOKEN` using [`check-secret.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/check-secret.yml).
   - Twine works for [pasir 0.0.1](https://pypi.org/project/pasir/0.0.1/) but not yet GitHub Action [`python-publish.yml`](https://github.com/dudung/pasir/blob/main/.github/workflows/python-publish.yml).
-  - Finally `python-publish.yml` works [`11761303889`](https://github.com/dudung/pasir/actions/runs/11761303889/job/32762892975), which requires defining of [Trusted Publishers](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/), but with unrecommended way.
-  - 
+  - Finally `python-publish.yml` works [`11761303889`](https://github.com/dudung/pasir/actions/runs/11761303889/job/32762892975), after defining it as [Trusted Publishers](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/), but this is not a unrecommended way. Then it does not work anymore for other GitHub Action, e.g. `ci-cd.yml` as illustred [here](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/).
+  - Now, `python-publish.yml` works [`11762105117`](https://github.com/dudung/pasir/actions/runs/11762105117) without adding it to Trusted Publishers, stil using `__token__` as user and `secrets.A_TOKEN` as password. Not really sure how it can happen.
+  - The steps and discussion to make AIP Token Authentification works is available on [`67303803-ff04-800a-aa67-ba747bd57ebf`](https://chatgpt.com/share/67303803-ff04-800a-aa67-ba747bd57ebf). 
 + `09-nov-2024` Use a word for section instead of `##` prefix.
   - Current section words are Update, Progress, Info, Activities.
   - It is to accompany Tags, which is genereated by Hugo template.
