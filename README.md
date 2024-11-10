@@ -46,6 +46,14 @@ Output
 ```
 
 ### gravitational2
+Syntax
+
+`Gravitational([constant])`
+
++ `constant`: Gravitational constant.
+
+Code
+
 ```py
 from pasir.butiran.color2 import Color2
 from pasir.butiran.math.vect3 import Vect3
@@ -70,9 +78,10 @@ if True:
   
   fg21 = gravitational.force(grain2, grain1)
   print(fg21)
+```
 
-"""
-force_gravitational2.py
+Output
+```json
 {
   "constant": "5",
 }
@@ -100,7 +109,6 @@ force_gravitational2.py
 }
 { "x": 6.0, "y": 8.0, "z": -0.0 }
 { "x": -6.0, "y": -8.0, "z": -0.0 }
-"""
 ```
 
 ## examples
