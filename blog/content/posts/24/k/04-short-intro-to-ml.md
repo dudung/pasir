@@ -10,6 +10,16 @@ A very short intro to Machine Learning mostly with illustrations.
 
 <!--more-->
 
+Info:
+
++ Short intro to Machine Learning: Some references and other things
+  - url 
+  - version 20241111_v0
++ Outline
+  - Intro 3
+
+Others:
+
 There some available references [^alpaydin_3_2014], [^bishop_1_2006], [^deisenroth_1_2020], [^elhussein_2024], [^fleuret_1_2024], [^goodfellow_1_2016], [^gajewski_2020], [^hamilton_2023], [^harrington_1_2012], [^janiesch_2021], [^klein_1_2021], [^kroese_1_2019], [^kubat_2_2017], [^lin_2024], [^lindholm_1_2022], [^mitchell_1_1997], [^mohri_1_2012], [^mueller_1_2016], [^murphy_1_2012], [^raschka_1_2022], [^sarker_2021], [^shinde_2018], [^shewchuk_1_2024], [^usaid_2018], [^witten_3_2011].
 
 Refs:
