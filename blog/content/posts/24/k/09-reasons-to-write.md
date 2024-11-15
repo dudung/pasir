@@ -12,7 +12,7 @@ There are many excuses not to write, and there are also many reasons to write.
 
 Sketch:
 
-This morning I start again to write but in more non-formal way, on pasir instead on Medium, since here there will be no readers, so I can feel safe from critism, which I still can handle. It sounds weak, isn't it? Yesterday afternoon a friend sent a video related to writing  [^suhendra_2024], which is later traced back to [^philosophy_2017], where the original source is also available [^peterson_2017] with a quote
+This morning I try to start again consistently to write but in more non-formal way, on pasir instead on Medium, since here there will be no readers, so I can feel safe from critism, which I still can handle. It sounds weak, isn't it? Yesterday afternoon a friend sent a video related to writing  [^suhendra_2024], which is later traced back to [^philosophy_2017], where the original source is also available [^peterson_2017] with a quote
 
 > The best way to teach people critical thinking is to teach them to write.
 
