@@ -25,3 +25,35 @@ Info:
   - Marco Sutisna Putra 24
   - Kahfi Rizky Kosasih 27
   - Closing 30
+
+Sketch:
+
+```mermaid
+flowchart LR
+B --> I --> C --"Y"--> P1
+C --"N" --> P2
+P1 & P2 --> O --> E
+B([Begin])
+I[\Input\]
+C{Condition}
+P1[Process 1]
+P2[Process 2]
+O[\Output\]
+E([End])
+```
+
+```
+```mermaid
+flowchart LR
+B --> I --> C --"Y"--> P1
+C --"N" --> P2
+P1 & P2 --> O --> E
+B([Begin])
+I[\Input\]
+C{Condition}
+P1[Process 1]
+P2[Process 2]
+O[\Output\]
+E([End])
+` ``
+```
