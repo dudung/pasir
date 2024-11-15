@@ -16,7 +16,7 @@ This morning I try to start again consistently to write but in more non-formal w
 
 > The best way to teach people critical thinking is to teach them to write.
 
-that means a lot to me. It is not related to the fact that I am part of working group whose task is to prepare Critical Thinking course for first year student in our university, but the question is can Computation Thinking also be taught in the same way?
+that means a lot to me. It is not related to the fact that I am part of working group whose task is to prepare Computational Thinking course for first year student in our university. And the question is: Can Computational Thinking also be taught in the same way of Critical Thinking? So it is not just essay, but certain essay that include the computational way in solving problems.
 
 Let us back to critical thinking, where following paragraph
 
