@@ -60,6 +60,8 @@ RP, our vehicle, is on the way to pick up me and the youngest. It is driven by t
 
 I think, I give up. It is now 1855 and I am at home. For today a 5 minutes note are already good. The next difficulty is the consistency to write at least one note a day. I hope this stage can be achieved.
 
+The oldest served tea with glass and transparent teapot with four small tea cups from Japan, from one of my student.
+
 Just close this note for today.
 
 `17-nov-2024` `0438` I think the horizontal line `---` or `___` look not too good. Actually, I want to use three dots `$\dots$` in the center, but I can not find it. The use of separator will be considered later, since there is already some setion `Info`, `Sketch`, `Refs`, and `Tags` (automatically by the template).
