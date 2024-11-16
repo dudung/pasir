@@ -35,7 +35,7 @@ It is 0800, have to accept nature call, and the notes is already 3 mins legnth. 
 
 ---
 
-This $y = ax^2 + bx + c$ is a quadratic equation.
+This $y = ax^2 + bx + c$ is a quadratic equation. Not so related, but only for count of the words :pray:.
 
 ---
 It is now 1358 and two lunches have been had, where one is in PL and the other is in FA. Before them morning session of professor oration has been attended.
@@ -56,14 +56,14 @@ Now the time is 1418, it rains, and this notes already has 5 minutes length.
 
 ---
 
-RP, our vehicle, is on the way to pick up me and the youngest. It is driven by the one. It is now 1449 and already the time for $\frac35$ in a day. It is still too far from 6 minutes note for now. I have found something interesting to write, right.
+RP, our vehicle, is on the way to pick up me and the youngest. It is driven by the one. It is now 1449 and already the time for $\frac35$ in a day. It is still too far from 6 minutes note for now. I have found something interesting to write, right. Take a break first. A small nature call or the big one? Just take a seat on the place, :smile:.
 
 
 Refs:
 
 [^boyolali_2024]: -, "Soto Sedaap Boyolali", Jl. Trunojoyo No.25, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115, Google Maps, https://maps.app.goo.gl/Toun2uDJauqY6bSF7 [20241116].
 
-[^itbpress_2024]: -, "Orasi Ilmiah", 2024, url https://www.itbpress.id/orasi-ilmiah/ [20241116].
+[^itbpress_2024]: -, "Orasi Ilmiah", Inovasi Teknologi Bermedia (ITB) Press, 2024, url https://www.itbpress.id/orasi-ilmiah/ [20241116].
 
 [^maps_2024]: Google Maps, url https://maps.app.goo.gl/RgxKhJkbH518bJPi9 [20241116].
 
