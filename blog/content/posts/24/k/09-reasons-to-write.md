@@ -64,7 +64,7 @@ Just close this note for today.
 
 `17-nov-2024` `0438` I think the horizontal line `---` or `___` look not too good. Actually, I want to use three dots `$\dots$` in the center, but I can not find it. The use of separator will be considered later, since there is already some setion `Info`, `Sketch`, `Refs`, and `Tags` (automatically by the template).
 
-Well it is 6 minutes note. Wow! :100: &check;
+Well, fortunately it is 6 minutes note now. Wow! :100: &check;
 
 ---
 
@@ -83,4 +83,3 @@ Refs:
 [^peterson_2017]: Jordan B. Peterson, "2017 Maps of Meaning 06: Story and Metastory (Part 2)", YouTube, 21 Feb 2017, url https://www.youtube.com/watch?v=nsZ8XqHPjI4&t=8255s [20241116].
 
 [^philosophy_2017]: Bite-sized Philosophy, "Jordan Peterson - The Best Way To Learn Critical Thinking", YouTube, 7 Dec 2017, url https://www.youtube.com/watch?v=x0vUsxhMczI [20241116].
-
