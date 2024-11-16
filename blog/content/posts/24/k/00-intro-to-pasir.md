@@ -16,6 +16,7 @@ Updates:
 
 Progress:
 
++ `16-nov-2024` Change post to note in `layouts/partials/footer.html`.
 + `15-nov-2024` Add icon for external link, that open new tab.
   - Create `render-link.html` in `layouts/_default/_markup` as in Hugo  [`28677`](https://discourse.gohugo.io/t/simple-way-to-open-in-a-new-tab/28677/4?u=dudung).
   - Add style for the external link []() as given in W3Schools [`fa fa-external-link`](https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-external-link).
