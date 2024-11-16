@@ -58,6 +58,11 @@ Now the time is 1418, it rains, and this notes already has 5 minutes length.
 
 RP, our vehicle, is on the way to pick up me and the youngest. It is driven by the one. It is now 1449 and already the time for $\frac35$ in a day. It is still too far from 6 minutes note for now. I have found something interesting to write, right. Take a break first. A small nature call or the big one? Just take a seat on the place, :smile:.
 
+I think, I give up. It is now 1855 and I am at home. For today a 5 minutes note are already good. The next difficulty is the consistency to write at least one note a day. I hope this stage can be achieved.
+
+Just close this note for today.
+
+---
 
 Refs:
 
