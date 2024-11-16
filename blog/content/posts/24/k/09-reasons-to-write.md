@@ -54,6 +54,10 @@ It is interesting to know that 2024 profesor oration books have been available a
 
 Now the time is 1418, it rains, and this notes already has 5 minutes length.
 
+---
+
+RP, our vehicle, is on the way to pick up me and the youngest. It is driven by the one. It is now 1449 and already the time for $\frac35$ in a day. It is still too far from 6 minutes note for now. I have found something interesting to write, right.
+
 
 Refs:
 
