@@ -62,6 +62,10 @@ I think, I give up. It is now 1855 and I am at home. For today a 5 minutes note 
 
 Just close this note for today.
 
+`17-nov-2024` `0438` I think the horizontal line `---` or `___` look not too good. Actually, I want to use three dots `$\dots$` in the center, but I can not find it. The use of separator will be considered later, since there is already some setion `Info`, `Sketch`, `Refs`, and `Tags` (automatically by the template).
+
+Well it is 6 minutes note. Wow! :100: &check;
+
 ---
 
 Refs:
