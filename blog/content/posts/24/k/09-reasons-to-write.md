@@ -24,7 +24,18 @@ Let us back to critical thinking, where following paragraph
 
 is a definition [^papathanasiou_2014] from other available definitions
 
+It is now 0734 and I have already sat in the office after having breakfast with the one at Soto Boyolali [^boyolali_2024]. The place has good and comfortable atmosphere. Unfortunately, there are many muscle people lately due to nearby fitnes place, but not very sure about it. I am not against this, but can you imagine after fitnes without showering then visit a place to take a breakfast? So, I recommend to visit this place for breakfast during work days but not during the weekend days. 
+
+My plan today is first start this note, which is on the way; second having breakfast just two of us, which is also accomplished; third attending morning session of professors oration at the West Hall in about less than 45 minutes; fourth attending celebrating party at Urban and Regional Planning department, where the time required to get to the fourth from the thirds is about 3 minutes walk for 240 m [^maps_2024].
+
+It is 0800, have to accept nature call, and the notes is already 3 mins legnth.
+
+
 Refs:
+
+[^boyolali_2024]: -, "Soto Sedaap Boyolali", Jl. Trunojoyo No.25, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115, Google Maps, https://maps.app.goo.gl/Toun2uDJauqY6bSF7 [20241116].
+
+[^maps_2024]: Google Maps, url https://maps.app.goo.gl/RgxKhJkbH518bJPi9 [20241116].
 
 [^suhendra_2024]: Dody Suhendra, "The Best Way to Teach People Critical Thinking", FI 92 WhatsApp Group, 15 Nov 2024 16:41, url https://chat.whatsapp.com/L21WKoDNVb62PETftN8rdL [20241116].
 
