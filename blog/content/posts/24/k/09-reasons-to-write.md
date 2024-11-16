@@ -28,7 +28,7 @@ It is now 0734 and I have already sat in the office after having breakfast with 
 
 My plan today is first start this note, which is on the way; second having breakfast just two of us, which is also accomplished; third attending morning session of professors oration at the West Hall in about less than 45 minutes; fourth attending celebrating party at Urban and Regional Planning department, where the time required to get to the fourth from the thirds is about 3 minutes walk for 240 m [^maps_2024].
 
-It is 0800, have to accept nature call, and the notes is already 3 mins legnth.
+It is 0800, have to accept nature call, and the notes is already 3 mins legnth. The stomach feels better and I am relieved from such discomfort condition. But there is small, tiny discomfort feel that I would like to remove before attending the nearest event. I do not whether I should just sat in the toilette room to wail the relieving process or trink much water to induce the process, or just to the West Hall and then get out when it comes? At least I have several things to write to this note. By the way, I am listing to Start Wars song played by 40 Finges. They are good, I can listen to it and stil concentrate to my work. Enya dan Kitaro make me have to listen to them, so I can not work properly. Jazz is better than them, but classic like Vivaldi also does not work. I do not know why I have selected types of music that I can hear while working. The time is 0815 and this note already has length of 4 minutes. I think I shold walk to the West Hall, since it is advisable to enter the hall before 0830. I pause the writing process of this note. 
 
 
 Refs:
