@@ -37,12 +37,29 @@ It is 0800, have to accept nature call, and the notes is already 3 mins legnth. 
 
 This $y = ax^2 + bx + c$ is a quadratic equation.
 
-...
+---
+It is now 1358 and two lunches have been had, where one is in PL and the other is in FA. Before them morning session of professor oration has been attended.
+
+1. Prof. Nuning Nuraini, "Epidemiology Information Transformation through Mathematical Modeling: From Data to Policy", West Hall, 16 Nov 2024, \
+  Flipbook https://www.itbpress.id/orasi-ilmiah/#flipbook-df_29428/1/, \
+  Photo https://www.instagram.com/p/DCaurTFypEn/.
+2. Prof Ridwan Sutriadi, "Sustainable  Smart City: Urban Planning Perspective", West Hall, 16 Nov 2024, \
+  Flipbook https://www.itbpress.id/orasi-ilmiah/#flipbook-df_29431/1/, \
+  Photo https://www.instagram.com/p/DCauwPRync8/.
+3. Muhamad Instanu, "Exploring plants with potential to treat hyperuricemia", West Hall, 16 Nov 2024, \
+Flibook https://www.itbpress.id/orasi-ilmiah/#flipbook-df_29425/1/, \
+Photo https://www.instagram.com/p/DCauyy_yoJG/.
+
+It is interesting to know that 2024 profesor oration books have been available as flibook at ITB Press [^itbpress_2024], which will give more benefit to the audiencea, especially people, that by any change, do not have opportunity or access to the orations.
+
+Now the time is 1418, it rains, and this notes already has 5 minutes length.
 
 
 Refs:
 
 [^boyolali_2024]: -, "Soto Sedaap Boyolali", Jl. Trunojoyo No.25, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115, Google Maps, https://maps.app.goo.gl/Toun2uDJauqY6bSF7 [20241116].
+
+[^itbpress_2024]: -, "Orasi Ilmiah", 2024, url https://www.itbpress.id/orasi-ilmiah/ [20241116].
 
 [^maps_2024]: Google Maps, url https://maps.app.goo.gl/RgxKhJkbH518bJPi9 [20241116].
 
