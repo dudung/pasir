@@ -15,15 +15,17 @@ Info:
 
 + Further intro to perceptron: Datasets generation, classification, andlearning
   - url https://osf.io/9vxfz
-  - version 20241118_v0
+  - version 20241118_v6
 + Outline
   - Intro 3
   - Linear separable dataset generation 6
   - Feed forward in single-layer perceptron 23
   - Binary classification ability 29
   - Decision boundary line 47
-  - Learning process 54
-  - Closing &minus;3
+  - Learning process 60
+  - Error estimation 76
+  - Additional topic as intermezzo 91
+  - Closing 93
 
 Sketch:
 
@@ -110,4 +112,21 @@ $$
 
 $$\tag{9}
 x_2 = - \left(\frac{w_{11}}{w_{12}}\right) x_1 - \left(\frac{b}{w_{12}}\right).
+$$
+
+$$\tag{10}
+{\rm SSE} = \sum_{i = 1}^n (y_i - \hat{y}_i)^2.
+$$
+
+$$\tag{11}
+{\rm MCE} = \frac{1}{n} \sum_{i = 1}^n \delta(y_i,\hat{y}_i).
+$$
+
+$$\tag{12}
+\delta(a, b) = \left\\{
+\begin{array}{cc}
+1 & a = b, \newline
+0 & a \ne b.
+\end{array}
+\right.
 $$
