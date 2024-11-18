@@ -20,6 +20,10 @@ Info:
   - Intro 3
   - Linear separable dataset generation 6
   - Feed forward in single-layer perceptron 23
+  - Binary classification ability 29
+  - Decision boundary line 47
+  - Learning process 54
+  - Closing &minus;3
 
 Sketch:
 
@@ -80,4 +84,30 @@ x_j^n \newline
 \end{array}
 \right]
 \right)
+$$
+
+```mermaid
+flowchart RL
+subgraph n[" "]
+  S1
+  A1
+end
+I1 --"w<sub>11</sub>"--> S1
+I2 --"w<sub>12</sub>"--> S1
+I0 --"b<sub>1</sub>"--> S1
+S1 --> A1 --> O1
+O1((y<sub>1</sub>))
+I1((x<sub>1</sub>))
+I2((x<sub>2</sub>))
+I0((1))
+A1((f<sub>bs</sub>))
+S1(["&Sigma; wx+b"])
+```
+
+$$\tag{8}
+w_{11} x_1 + w_{12} x_2 + b = 0.
+$$
+
+$$\tag{9}
+x_2 = - \left(\frac{w_{11}}{w_{12}}\right) x_1 - \left(\frac{b}{w_{12}}\right).
 $$
