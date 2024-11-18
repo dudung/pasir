@@ -25,7 +25,7 @@ Info:
   - Learning process 60
   - Error estimation 76
   - Additional topic as intermezzo 91
-  - Closing 93
+  - Closing 98
 
 Sketch:
 
@@ -130,3 +130,18 @@ $$\tag{12}
 \end{array}
 \right.
 $$
+
+```mermaid
+flowchart RL
+I1 --"w<sub>11</sub>"--> H1
+I2 --"w<sub>12</sub>"--> H1
+I1 --"w<sub>21</sub>"--> H2
+I2 --"w<sub>22</sub>"--> H2
+H1 --"u<sub>11</sub>"--> O1
+H2 --"u<sub>12</sub>"--> O1
+I1((x<sub>1</sub>))
+I2((x<sub>2</sub>))
+H1(["y<sub>1</sub>|tanh"])
+H2(["y<sub>2</sub>|tanh"])
+O1(["z<sub>1</sub>|bstep"])
+```
