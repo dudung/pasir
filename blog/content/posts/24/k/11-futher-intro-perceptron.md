@@ -15,7 +15,7 @@ Info:
 
 + Further intro to perceptron: Datasets generation, classification, andlearning
   - url https://osf.io/9vxfz
-  - version 20241118_v6
+  - version 20241119_v7
 + Outline
   - Intro 3
   - Linear separable dataset generation 6
