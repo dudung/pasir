@@ -1,0 +1,31 @@
++++
+title = 'fi2151'
+date = 2024-11-20T19:37:13+07:00
+draft = false
+math = false
+tags = ['course']
+authors = ['viridi']
+url = '24k13'
++++
+Materials, in the form of slide, given in FI2151 Modeling, Data Generator and Analysis course in 2024-1 semester.
+
+<!--more-->
+
+Materials:
+
+- [Data Science and Python venv](https://osf.io/tzvsw) \
+  Data science, Some intro to machine learning, Python virtual environment, Steps to create virtual environment, Python statistics module, Dicussion, Assigment. 
+- [Neural network intro](https://osf.io/3ksmu) \
+  Intro, Biological neuron, Artificial neuron, Neural networks, The zoo, Challenges.
+- [ANN with spreadsheet](https://osf.io/42tq9) \
+  Intro, Draw NN architecture schematics, ANN simple example, Output activation modification, Closing.
+- [Intro to perceptron](https://osf.io/26v4e) \
+  Intro, Dataset generation, Produced datasets, Logical gates, AI-assisted info, Closing.
+- [Further intro to perceptron](https://osf.io/9vxfz) \
+  Intro, Linear separable dataset generation, Feed forward in single-layer perceptron, Binary classification ability, Decision boundary line, Learning process, Error estimation, Additional topic as intermezzo, Closing.
+- [ML synthetic data with Python](https://osf.io/wqv3z) \
+  Intro, Synthetic data creation, Libraries, packages, load data, Data visualization, Build and test models, Make predictions, Omitting X3 column, Closing.
+- [TensorFlow Playground1](https://osf.io/43baq) \
+  Intro, The website, Datasets, Setting, Some terms, Models, Closing.
+- [Multidimensional visualization](https://osf.io/p4ykz) \
+  Intro, .., Closing.
