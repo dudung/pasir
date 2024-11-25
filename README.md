@@ -25,7 +25,7 @@ plot2(x, y, z)
 With
 
 $$\tag{1}
-f(z) = \left\{
+f(z) = \left\\{
 \begin{array}{lcr}
 1, & z > 0, \newline
 0, & z \le 0,
