@@ -10,7 +10,7 @@ pip install pasir
 ## datasets
 
 ### binary and plot2
-```
+```py
 from pasir.datasets.clasdata import binary
 from pasir.datasets.dataviz import plot2
 
@@ -22,112 +22,27 @@ x, y, z = binary(coeffs, r1=r1, r2=r2)
 plot2(x, y, z)
 ```
 
+With
 
-## instantiation
+$$\tag{1}
+f(z) = \left\{
+\begin{array}{lcr}
+1, & z > 0, \newline
+0, & z \le 0,
+\end{array}
+\right.
+$$
 
-### grain
-Syntax
+and
 
-`Grain([id[, m[, d[, q[, b]]]]])`
+$$\tag{2}
+z = (x - 0.5)^2 + (y - 0.5)^2 - 0.3^2,
+$$
 
-+ `id`: identification in string, e.g. `0092`, default `0000`.
-+ `m` : mass, e.g. `0.5`, default `0`.
-+ `d` : diameter, e.g. `1.2`, default `0`.
-+ `q` : charge, e.g. `-0.1`, default `0`.
-+ `b` : artificial property, e.g. `5.3`, default `0`.
+which is the decision boundary.
 
-Code
 
-```python
-g = Grain()
-g.r = Vect3(1, 2, 3)
-g.color = Color2('#0f0', '#ff0')
-print(g)
-```
-
-Output
-
-```json
-{
-  "id": "0000",
-  "m": 0,
-  "d": 0,
-  "q": 0,
-  "b": 0,
-  "color": { "stroke": "#0f0", "fill": "#ff0" },
-  "r": { "x": 1, "y": 2, "z": 3 },
-  "v": { "x": 0, "y": 0, "z": 0 },
-  "a": { "x": 0, "y": 0, "z": 0 }
-}
-```
-
-### gravitational2
-Syntax
-
-`Gravitational2([constant])`
-
-+ `constant`: Gravitational constant.
-
-Code
-
-```py
-from pasir.butiran.color2 import Color2
-from pasir.butiran.math.vect3 import Vect3
-from pasir.butiran.grain import Grain
-from pasir.butiran.force.gravitational2 import Gravitational2
-
-if True:
-  G = 5
-  gravitational = Gravitational2(constant=G)
-  print(gravitational)
-  
-  grain1 = Grain(id="0000", m=5)
-  grain1.r = Vect3(0, 0, 0)
-  print(grain1)
-  
-  grain2 = Grain(id="0034", m=10)
-  grain2.r = Vect3(3, 4, 0)
-  print(grain2)
-  
-  fg12 = gravitational.force(grain1, grain2)
-  print(fg12)
-  
-  fg21 = gravitational.force(grain2, grain1)
-  print(fg21)
-```
-
-Output
-```json
-{
-  "constant": "5",
-}
-{
-  "id": "0000",
-  "m": 5,
-  "d": 0,
-  "q": 0,
-  "b": 0,
-  "color": { "stroke": "#000", "fill": "#fff" },
-  "r": { "x": 0, "y": 0, "z": 0 },
-  "v": { "x": 0, "y": 0, "z": 0 },
-  "a": { "x": 0, "y": 0, "z": 0 }
-}
-{
-  "id": "0034",
-  "m": 10,
-  "d": 0,
-  "q": 0,
-  "b": 0,
-  "color": { "stroke": "#000", "fill": "#fff" },
-  "r": { "x": 3, "y": 4, "z": 0 },
-  "v": { "x": 0, "y": 0, "z": 0 },
-  "a": { "x": 0, "y": 0, "z": 0 }
-}
-{ "x": 6.0, "y": 8.0, "z": -0.0 }
-{ "x": -6.0, "y": -8.0, "z": -0.0 }
-```
-
-## examples
+## motion examples
 
 ### parabolic motion
 ```py
