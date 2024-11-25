@@ -24,7 +24,7 @@ plot2(x, y, z)
 
 With
 
-$$\tag{1}
+$$
 f(z) = \left\\{
 \begin{array}{lcr}
 1, & z > 0, \newline
@@ -35,7 +35,7 @@ $$
 
 and
 
-$$\tag{2}
+$$
 z = (x - 0.5)^2 + (y - 0.5)^2 - 0.3^2,
 $$
 
