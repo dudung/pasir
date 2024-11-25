@@ -170,7 +170,7 @@ typing_extensions==4.11.0
 tzdata==2024.1
 uri-template==1.3.0
 urllib3==2.2.1
-visualkeras==0.1.3
+visualkeras @ git+https://github.com/paulgavrikov/visualkeras@f043883aae37fbb3dc02782ab736c15935122400
 wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
