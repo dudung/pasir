@@ -16,6 +16,7 @@ Updates:
 
 Progress:
 
++ `26-nov-2024` Update pasir to PyPI with version [`0.0.5`](https://pypi.org/project/pasir/0.0.5/), including `datasets` package.
 + `16-nov-2024` Change post to note in `layouts/partials/footer.html`.
 + `15-nov-2024` Add icon for external link, that open new tab.
   - Create `render-link.html` in `layouts/_default/_markup` as in Hugo  [`28677`](https://discourse.gohugo.io/t/simple-way-to-open-in-a-new-tab/28677/4?u=dudung).
