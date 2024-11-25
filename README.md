@@ -7,6 +7,22 @@ granular-based simulation and related systems
 pip install pasir
 ```
 
+## datasets
+
+### binary and plot2
+```
+from pasir.datasets.clasdata import binary
+from pasir.datasets.dataviz import plot2
+
+r1 = [0, 1.05, 0.05]
+r2 = [0, 1.05, 0.05]
+coeffs = [[0.41], [-1, -1], [1, 0, 1]]
+x, y, z = binary(coeffs, r1=r1, r2=r2)
+
+plot2(x, y, z)
+```
+
+
 ## instantiation
 
 ### grain
