@@ -11,7 +11,7 @@ attrs==23.2.0
 Babel==2.15.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
-build==1.2.1
+build==1.2.2.post1
 butiran==0.0.9
 certifi==2024.2.2
 cffi==1.16.0
@@ -109,7 +109,7 @@ pandas==2.2.2
 pandoc==2.4
 pandocfilters==1.5.1
 parso==0.8.4
--e git+https://github.com/dudung/pasir@68f88b8a8fa465344070354f2cf7e423797559ef#egg=pasir
+pasir==0.0.5
 pillow==10.3.0
 pkginfo==1.10.0
 platformdirs==4.2.1
