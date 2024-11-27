@@ -31,7 +31,7 @@ Info:
 
 Sketch:
 
-$$
+$$\tag{1}
 f(x) = \left\\{
 \begin{matrix}
 1, & x > 0, \newline
@@ -40,7 +40,7 @@ f(x) = \left\\{
 \right.
 $$
 
-$$
+$$\tag{2}
 \begin{array}{rcl}
 f(x) & = & (c _{00}) \newline
 & + & (c _{10} x + c _{01} y) \newline
@@ -51,10 +51,10 @@ f(x) & = & (c _{00}) \newline
 \end{array}
 $$
 
-$$
+$$\tag{3}
 c _{00} + c _{10} x + c _{01} y = 0.
 $$
 
-$$
+$$\tag{4}
 (c _{00}) + (c _{10} x + c _{01} y) + (c _{20} x^2 + c _{11} xy + c _{02} y^2) = 0.
 $$
