@@ -15,7 +15,7 @@ Info:
 
 - Intro to Pasir 0.05: Binary classification data with two features
   + url https://osf.io/jftmw
-  + version 20241127_v1
+  + version 20241127_v2
 - Outline
   + Intro 3
   + Generate and visualize datasets 13
