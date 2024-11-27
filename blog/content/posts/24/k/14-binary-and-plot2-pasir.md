@@ -1,5 +1,5 @@
 +++
-title = 'binary and plot2 pasir'
+title = 'binary and plot2 pasir 0.05'
 date = 2024-11-26T20:01:13+07:00
 draft = false
 math = false
