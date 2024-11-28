@@ -125,7 +125,7 @@ List:
 "Metadata in brief: 😊".
 48. `29-jan-2024 v3` [`tzvsw`](https://osf.io/tzvsw) `data_science_and_python_env.pdf` `35` \
 "Data Science and Python venv: 😊"
-49. `21-apr-2024` [`wqv3z`](https://osf.io/wqv3z) `ml_synthetic_data_with_python.pdf` `50` \
+49. `21-apr-2024 v0` [`wqv3z`](https://osf.io/wqv3z) `ml_synthetic_data_with_python.pdf` `50` \
 "ML synthetic data with Python: Creating and testing a dataset example".
 
 5
