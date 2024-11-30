@@ -37,7 +37,7 @@ I am reading now a book (Thiel & Masters, 2014) and feeling lost. It does not me
 
 The illustration about the difference between globalization and technoloy is very good. I am now, according to the definition, persuing the path of more to globalization instead of to technoloy.
 
-The fact that startups require customers to be success holds my tounge. I always think that if I can make something good and the others need it, that that is. Well, it is not.
+The fact that startups require customers to be success holds my tounge. I always think that if I can make something good and the others need it, that is. Well, unfortunately it is not just that.
 
 In the book following sentences
 
