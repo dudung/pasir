@@ -1,5 +1,5 @@
 +++
-title = 'grid ikigai etc'
+title = 'grit ikigai etc'
 date = 2024-11-30T04:45:37+07:00
 draft = false
 math = false
