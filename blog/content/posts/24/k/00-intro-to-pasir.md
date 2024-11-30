@@ -10,19 +10,19 @@ Create pasir as continuation of butiran, which has undetermined pause.
 
 <!--more-->
 
+
+
 Updates:
 
 + It is now has Python and JavaScript parts, where the first is for calculation and the second is for visulization.
 
 Progress:
 
-[About]({{< ref "/about" >}} "About Us")
-
 + `30-nov-2024` Use [blockquote render hooks](https://gohugo.io/render-hooks/blockquotes/).
   - Update Hugo from `v0.124.1` to [`v0.139.3`](https://github.com/gohugoio/hugo/releases/tag/v0.139.3) since it is new in `v0.132.0`.
   - Create `layouts/_default/_markup/render-blockquote.html`.
   - Modify `hugo.toml`.
-  - Use first blockquote in [`24k17`](/24k17) note.
+  - Use first blockquote in [`24k17`](/pasir/24k17) note.
 + `26-nov-2024` Update pasir to PyPI with version [`0.0.5`](https://pypi.org/project/pasir/0.0.5/), including `datasets` package.
 + `16-nov-2024` Change post to note in `layouts/partials/footer.html`.
 + `15-nov-2024` Add icon for external link, that open new tab.
