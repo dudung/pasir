@@ -176,3 +176,12 @@ table tr:nth-child(even) {
 .posts-box-container {
   text-align: left;
 }
+
+blockquote {
+  padding-left: 25px;
+  margin-left: -40px;
+  border-left: 6px #8af solid;
+  margin-right: 0px;
+  padding-right: 25px;
+  color: #89a;
+}
