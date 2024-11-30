@@ -30,3 +30,17 @@ Business:
 
 + Steven Bartlett, "The Diary of a CEO", Penguin US, 23rd edition, 29 Aug 2023, url https://isbnsearch.org/isbn/9780593715840 [20241130]. [`j7fb9`](https://osf.io/j7fb9)
 + Peter Thiel, Blake Masters, "Zero to One: Notes on Startups, or How to Build the Future", Currency, 1st edition, Kindle edition, 2014, url https://isbnsearch.org/isbn/9780804139304 [20241130]. [`2udse`](https://osf.io/2udse)
+
+Notes:
+
+I am reading now a book (Thiel & Masters, 2014) and feeling lost. It does not mean that the reading material is not good, but the situation is in different level compared where I am now. As a college not-yet-a-professor I am facing very administrative routines that act like an energy sink. It absorb every enthusiasm, dream, imagination, passion, and others, you name it, that I have.
+
+The illustration about the difference between globalization and technoloy is very good. I am now, according to the definition, persuing the path of more to globalization instead of to technoloy.
+
+The fact that startups require customers to be success holds my tounge. I always think that if I can make something good and the others need it, that that is. Well, it is not.
+
+In the book following sentences
+
+> If your product requires advertising or sales people to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth.
+
+tell one of four big lessons learned by enterpreneurs stucked with Sillicon Valley from the dot-com crash. They four still guide business thinking today.
