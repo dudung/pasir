@@ -15,4 +15,5 @@ Today, I am aged oficially and get uncomfortable again, which triggers me  to cr
 Lessons learned from [pasir](https://dudung.github.io/pasir) are only few as follow
 
 1. Filename naming convention is `yy/m/nn-note-abbrv-name.md` and link to this note is `24k00`, where `yy=24` for `2024`, `m=k` for `Dec`, and `00` for the first note. \
-`a=Jan`, `b=Feb`, `c=Mar`, `d=Apr`, `e=May`, `f=Jun`, `g=Jul`, `h=Aug`, `i=Sep`, `j=Oct`, `k=Nov`, `l=Dec`. 
+`a=Jan`, `b=Feb`, `c=Mar`, `d=Apr`, `e=May`, `f=Jun`, `g=Jul`, `h=Aug`, `i=Sep`, `j=Oct`, `k=Nov`, `l=Dec`.
+2. Previous notes to move to new note or blog is listed in https://github.com/dudung/pasir/issues/1.
